@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "812607666745",
+    "project_id": "openai-chatgpt-waluyo",
+    "storage_bucket": "openai-chatgpt-waluyo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812607666745:android:fc88dd5878ef6d6f84ebe8",
+        "android_client_info": {
+          "package_name": "com.openai.chatgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812607666745-u34mg8qkheuqc8sr2pdunahugeri9qvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAds-Noy8lBccOzJjhgxkJM63rMtrNTwng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812607666745-u34mg8qkheuqc8sr2pdunahugeri9qvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
